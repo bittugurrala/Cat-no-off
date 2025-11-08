@@ -1,0 +1,35 @@
+.container-fluid{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: black;
+}
+.light-on{
+    width: 140px;
+    height: 236px;
+    margin-left: 35px;
+}
+
+/* .on-light-image{
+    height : 500px;
+    width: 500px;
+} */
+ .cat-off{
+    width: 241px;
+    height: 294px;
+    margin-bottom: -10px;
+ }
+ .button-container{
+    border: 2px solid gray;
+    width: 330px;
+    height: 150px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(78, 76, 76);
+ }
+ .heading{
+    color: white
+ }
