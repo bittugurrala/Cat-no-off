@@ -8,15 +8,19 @@ Perfect for beginners learning DOM manipulation and event handling in JS!
 
 ###  Project Preview
 
-<img src = "images/image.png" alt = "Preview image of the">
+<img width="1919" height="1198" alt="image" src = "images/image.png">
+<p>When the button is turned on!</p>
+
+<img width="1919" height="1198" alt="image" src = "images/image-3.png" >
+<p>When the button is turned off!</p>
 
 ###  Features
 
-* 🟢 **Light ON/OFF functionality**
-* 🐾 **Interactive button controls** using JS event listeners
-* 💡 **Dynamic image switching** with smooth transitions
-* 🎨 **Responsive layout** styled using **Bootstrap 5**
-* ⚙️ Simple and clean folder structure for easy understanding
+*  **Light ON/OFF functionality**
+*  **Interactive button controls** using JS event listeners
+*  **Dynamic image switching** with smooth transitions
+*  **Responsive layout** styled using **Bootstrap 5**
+*  Simple and clean folder structure for easy understanding
 
 ---
 
